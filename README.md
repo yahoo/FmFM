@@ -1,4 +1,4 @@
-# FM^2: Field-matrixed Factorization Machines for CTR Prediction in Internet Advertising
+# FM^2: Field-matrixed Factorization Machines for Recommender Systems
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@ it also support data process and feature extraction from public data set Criteo 
 
 
 ## Install
-First you will need to have [TensorFlow](https://github.com/tensorflow) (v1.14 with a GPU is preferred) and numpy, pandas, pickle and tqdm installed.
+First you will need to have [TensorFlow](https://github.com/tensorflow) (v1.15 with a GPU is preferred) and numpy, pandas, pickle and tqdm installed.
 
 You may need to login and download the [Criteo](http://labs.criteo.com/2014/02/kaggle-display-advertising-challenge-dataset/) and [Avazu](https://www.kaggle.com/c/avazu-ctr-prediction/data) from their websites respectively.
 The unzipped raw data files should be placed at folder `data/criteo/` and `data/avazu/` respectively.
