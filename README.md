@@ -9,8 +9,7 @@
 - [License](#license)
 
 ## Background
-This is the code to implement the algorithm of FM^2 (Field-matrixed Factorization Machines), it can run a quick benchmark among the LR, FM, FFM, FwFM, FvFM, FmFM and DCN,
-it also support data process and feature extraction from public data set Criteo and Avazu.
+This is the code to implement the algorithm of FM^2 (Field-matrixed Factorization Machines), it can run a quick benchmark among the LR, FM, FFM, FwFM, FvFM, FmFM and DCN, it also support data process and feature extraction from public data set Criteo and Avazu.
 
 
 ## Install
